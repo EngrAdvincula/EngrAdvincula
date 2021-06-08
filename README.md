@@ -52,11 +52,8 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">Repositories</h2>
 
 <br><br>
-<br><br><br><br><br><br><br><br>
 
-
-
-
+  
 <h4 align="center">
   <a href=https://github.com/EngrAdvincula?tab=repositories" title="Show Repositories">🔎 Show Repo 🔍</a>
 </h4>
