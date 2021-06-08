@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
  👋 Hi, I’m @EngrAdvincula <br>
  🌱 I’m currently learning everything 🤣<br>
  👀 I’m interested in Software Engineering, Data Engineering and Cloud Computing<br>
- 🥅 2021 Goals: Contribute more to Open Source projects<br>
+ 🥅 2021 Goals: ...<br>
  ⚡ Fun fact: Reading & writing tech blogs whenever possible<br>
 
 
