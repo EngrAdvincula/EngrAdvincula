@@ -59,13 +59,6 @@ You can click the Preview link to take a look at your changes.
 <a align="left" href="https://github.com/Y0unes17/zokra-one-voice-assistant" ><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Y0unes17&repo=zokra-one-voice-assistant&theme=gotham"></a>
 </p>
 
-<p width="100%" align="center">  
-<a align="left" href="https://github.com/Y0unes17/mask-detection" ><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Y0unes17&repo=mask-detection&theme=gotham"></a>
-</p>
-
-<p width="100%" align="center">  
-<a align="left" href="https://github.com/Y0unes17/Control-Browser-opencv" ><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Y0unes17&repo=Control-Browser-opencv&theme=gotham"></a>
-</p>
 <br><br>
 <br><br><br><br><br><br><br><br>
 
