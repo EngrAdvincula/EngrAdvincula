@@ -52,11 +52,7 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">Repositories</h2>
 
 <p width="100%" align="center">  
-<a align="left" href="https://github.com/Y0unes17/systeme-de-contrle-d-acces" ><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Y0unes17&repo=systeme-de-contrle-d-acces&theme=gotham"></a>
-</p>
-
-<p width="100%" align="center">  
-<a align="right" href="https://github.com/Y0unes17/zokra-one-voice-assistant" ><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Y0unes17&repo=zokra-one-voice-assistant&theme=gotham"></a>
+<a align="left" href="https://github.com/EngrAdvincula/django-heroku" ><img align="left" height="115" src=""></a>
 </p>
 
 <br><br>
@@ -66,7 +62,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <h4 align="center">
-  <a href=https://github.com/EngrAdvincula?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href=https://github.com/EngrAdvincula?tab=repositories" title="Show Repositories">🔎 Show Repo 🔍</a>
 </h4>
 
 
