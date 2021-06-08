@@ -56,7 +56,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p width="100%" align="center">  
-<a align="left" href="https://github.com/Y0unes17/zokra-one-voice-assistant" ><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Y0unes17&repo=zokra-one-voice-assistant&theme=gotham"></a>
+<a align="right" href="https://github.com/Y0unes17/zokra-one-voice-assistant" ><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Y0unes17&repo=zokra-one-voice-assistant&theme=gotham"></a>
 </p>
 
 <br><br>
@@ -71,6 +71,5 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[twitter]: https://twitter.com/codeSTACKr
-[Facebook]: https://www.facebook.com/B.S.Younes
-[linkedin]: https://linkedin.com/in/younes-ben-salah-a81190171
+[Facebook]: https://www.facebook.com/mark.advincula.315/
+[linkedin]: https://www.linkedin.com/in/mark-advincula-750476212/
