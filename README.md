@@ -51,10 +51,6 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="center">Repositories</h2>
 
-<p width="100%" align="center">  
-<a align="left" href="https://github.com/EngrAdvincula/django-heroku" ><img align="left" height="115" src=""></a>
-</p>
-
 <br><br>
 <br><br><br><br><br><br><br><br>
 
